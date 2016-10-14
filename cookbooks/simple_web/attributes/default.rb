@@ -1,6 +1,6 @@
 ### Apache Config ###
 default['firewall']['allow_ssh'] = true
-default['simple_web']['open_ports'] = 80
+default['simple_web']['open_ports'] = 443
 
 default['simple_web']['document_root'] = '/var/www/html'
 
