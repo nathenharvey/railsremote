@@ -11,7 +11,7 @@ override['apache']['mod_ssl']['honor_cipher_order'] = 'On'
 
 ### Website styles ###
 # main colour
-default['website']['colour'] = 'blue'
+default['website']['colour'] = '#4597b3'
 # display logo - none / inline
 default['website']['logo'] = 'none'
 # title text
