@@ -10,4 +10,7 @@ This talk was given on October 14, 2016 during the [Rails Remote Conf](https://a
 
 Nathen Harvey, VP of Community Development at [Chef](https://www.chef.io), helps the community whip up an awesome ecosystem built around the Chef platform. Nathen also spends much of his time helping people learn about the practices, processes, and technologies that support DevOps, continuous delivery, and high velocity organizations. Nathen is a co-host of the [Food Fight Show](http://foodfightshow.org), a podcast about Chef and DevOps.
 
+## LICENSE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">InSpec: Making Compliance Fun</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.chef.io" property="cc:attributionName" rel="cc:attributionURL">Chef Software, Inc.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
