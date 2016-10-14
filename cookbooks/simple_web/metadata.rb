@@ -10,6 +10,3 @@ depends 'apt'
 depends 'firewall'
 depends 'apache2'
 
-# hardening cookbooks
-depends 'os-hardening'
-depends 'ssh-hardening'
