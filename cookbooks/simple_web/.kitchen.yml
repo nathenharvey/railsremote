@@ -23,7 +23,8 @@ suites:
     verifier:
       inspec_tests:
         - test/integration
-    attributes: 
+        - https://github.com/nathenharvey/acme-inspec-profile
+    attributes:
       apt:
         unattended_upgrades:
           allowed_origins: ["origin=Ubuntu,archive=xenial-security"]
