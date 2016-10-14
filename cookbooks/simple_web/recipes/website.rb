@@ -41,7 +41,7 @@ directory "#{node['simple_web']['document_root']}/images" do
   action :create
 end
 
-cookbook_file "#{node['simple_web']['document_root']}/images/chef-logo.png" do
+cookbook_file "#{node['simple_web']['document_root']}/images/inspec-chef.png" do
   source 'chef-logo.png'
   owner 'www-data'
   group 'www-data'
