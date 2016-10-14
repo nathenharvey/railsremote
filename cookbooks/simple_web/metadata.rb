@@ -10,3 +10,5 @@ depends 'apt'
 depends 'firewall'
 depends 'apache2'
 
+depends 'os-hardening'
+depends 'ssh-hardening'

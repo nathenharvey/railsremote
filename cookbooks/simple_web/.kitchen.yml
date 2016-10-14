@@ -18,6 +18,8 @@ platforms:
 suites:
   - name: default
     run_list:
+      - recipe[os-hardening::default]
+      - recipe[ssh-hardening::default]
       - recipe[simple_web::default]
 
     verifier:
