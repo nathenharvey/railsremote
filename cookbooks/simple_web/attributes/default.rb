@@ -13,6 +13,6 @@ override['apache']['mod_ssl']['honor_cipher_order'] = 'On'
 # main colour
 default['website']['colour'] = '#4597b3'
 # display logo - none / inline
-default['website']['logo'] = 'none'
+default['website']['logo'] = 'inline'
 # title text
 default['website']['title'] = 'My awesome website'

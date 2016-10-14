@@ -42,7 +42,7 @@ directory "#{node['simple_web']['document_root']}/images" do
 end
 
 cookbook_file "#{node['simple_web']['document_root']}/images/inspec-chef.png" do
-  source 'chef-logo.png'
+  source 'inspec-chef.png'
   owner 'www-data'
   group 'www-data'
   mode '0755'
